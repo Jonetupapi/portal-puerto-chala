@@ -1,24 +1,20 @@
-WEB PUERTO DE CHALA
+PUERTO DE CHALA WEB V2
 
-Archivos listos para GitHub Pages:
-- index.html
-- styles.css
-- script.js
+Estructura:
+- index.html = página principal.
+- pages/ = subpáginas: turismo, galería, reportes y contacto.
+- assets/css/styles.css = colores, tamaños, fondos y diseño.
+- assets/js/script.js = correo receptor y función de envío por mailto.
+- assets/img/ = imágenes usadas en la web.
 
-Cómo subir:
-1. Crea un repositorio en GitHub.
-2. Sube estos 3 archivos en la raíz.
-3. En Settings > Pages, elige Deploy from branch > main > root.
-4. Guarda y espera el enlace.
+IMPORTANTE SOBRE FORMULARIOS:
+Esta web usa mailto para abrir el correo del visitante y enviar a:
+puertochalaoficial2026@yopmail.com
 
-Para Google Forms:
-- En index.html busca https://forms.google.com
-- Reemplázalo por el link real de tu formulario.
+Para recibir formularios directamente sin abrir correo, necesitas Google Forms, Formspree, Netlify Forms o un backend.
 
-Para cambiar correo:
-- Busca raichugn3090@gmail.com en index.html y script.js.
-- Reemplázalo por el correo que quieras.
-
-Imágenes:
-- Se usan imágenes libres de Wikimedia Commons relacionadas con Chala/Puerto Inca.
-- No se usaron fotos privadas de redes sociales.
+Cómo subir a GitHub:
+1. Descomprime este ZIP.
+2. Sube todos los archivos y carpetas al repositorio.
+3. Confirma cambios.
+4. GitHub Pages actualizará el sitio.
